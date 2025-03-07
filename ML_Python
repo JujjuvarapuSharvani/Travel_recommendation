@@ -1,0 +1,128 @@
+import pandas as pd
+from sklearn.cluster import KMeans
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+import numpy as np
+
+# Load the dataset
+file_path = '/content/Travel_data.csv'
+data = pd.read_csv(file_path)
+
+# Normalize column names
+data.columns = [col.strip().lower().replace(" ", "_") for col in data.columns]
+
+# Encode categorical columns
+label_encoder_season = LabelEncoder()
+data['season_encoded'] = label_encoder_season.fit_transform(data['season'])
+
+label_encoder_place_type = LabelEncoder()
+data['place_type_encoded'] = label_encoder_place_type.fit_transform(data['preferred_type_of_place'])
+
+# Feature scaling
+scaler = StandardScaler()
+scaled_features = scaler.fit_transform(data[['budget', 'season_encoded', 'place_type_encoded', 'age']])
+
+# K-Means Clustering
+kmeans = KMeans(n_clusters=5, random_state=42)
+data['cluster'] = kmeans.fit_predict(scaled_features)
+
+# Linear Regression for Budget Prediction
+regressor = LinearRegression()
+X = data[['place_type_encoded', 'season_encoded', 'cluster', 'age']]
+y = data['budget']
+regressor.fit(X, y)
+
+# Define valid options for place types and seasons
+valid_place_types = set(data['preferred_type_of_place'].str.capitalize().unique())
+valid_seasons = {season.lower(): season for season in data['season'].unique()}
+
+# Travel Recommendation System
+def travel_recommendation():
+    print("\n--- Welcome to the Travel Recommendation System ---")
+    
+    min_budget = data['budget'].min()
+    max_budget = data['budget'].max()
+    min_age = data['age'].min()
+    max_age = data['age'].max()
+
+    print(f"\nNote: The budget range for recommendations is {min_budget} INR to {max_budget} INR.")
+    print(f"Note: The age range for using this system is {min_age} to {max_age} years.")
+    
+    try:
+        # User Input
+        age = int(input("Enter your age: "))
+        if age < min_age or age > max_age:
+            print(f"\nSorry, the age should be between {min_age} and {max_age} years. Please try again.")
+            return
+        
+        print("\nPreferred types of places:", ", ".join(valid_place_types))
+        preferred_type = input("Enter your preferred type of place: ").capitalize().strip()
+        if preferred_type not in valid_place_types:
+            print("\nInvalid input. Please choose a valid preferred type of place.")
+            return
+        
+        budget = int(input("Enter your budget (in INR): "))
+        if budget < min_budget or budget > max_budget:
+            print(f"\nSorry, the budget should be between {min_budget} INR and {max_budget} INR. Please try again.")
+            return
+        
+        print("\nSeasons:", ", ".join(valid_seasons.values()))
+        travel_season = input("Enter the season of travel (e.g., Summer, Winter, Monsoon): ").strip().lower()
+        if travel_season not in valid_seasons:
+            print("\nInvalid input. Please choose a valid season.")
+            return
+
+        travel_season = valid_seasons[travel_season]
+
+        # Feature transformation for prediction
+        user_place_type = label_encoder_place_type.transform([preferred_type])[0]
+        user_season = label_encoder_season.transform([travel_season])[0]
+
+        # Predict the cluster for the user based on all inputs
+        user_cluster = kmeans.predict(scaler.transform(pd.DataFrame([[budget, user_season, user_place_type, age]], 
+                                                                    columns=['budget', 'season_encoded', 'place_type_encoded', 'age'])))[0]
+
+        # Filter recommendations based on user inputs
+        recommendations = data[(data['cluster'] == user_cluster) & 
+                               (data['season_encoded'] == user_season) & 
+                               (data['place_type_encoded'] == user_place_type)].copy()
+
+        if recommendations.empty:
+            print("\nSorry, no recommendations matched your preferences for the selected season and place type.")
+            return
+        
+        # Restrict recommendations to a budget range with some flexibility
+        budget_flexibility = 0.2  # 20% flexibility around the input budget
+        lower_budget = budget * (1 - budget_flexibility)
+        upper_budget = budget * (1 + budget_flexibility)
+        recommendations = recommendations[
+            (recommendations['budget'] >= lower_budget) & 
+            (recommendations['budget'] <= upper_budget)
+        ]
+
+        if recommendations.empty:
+            print("\nSorry, no recommendations matched your budget constraints.")
+            return
+
+        recommendations['budget_diff'] = abs(recommendations['budget'] - budget)
+        recommendations = recommendations.sort_values(
+            by=['budget_diff', 'place_type_encoded'], ascending=[True, True]
+        )
+
+        # Removing duplicates (if any) based on the place name
+        recommendations_unique = recommendations.drop_duplicates(subset=['visited_place'])
+
+        top_recommendations = recommendations_unique.head(3)
+
+        if not top_recommendations.empty:
+            print("\n--- Top 3 Recommended Destinations ---")
+            for _, row in top_recommendations.iterrows():
+                print(f"Place: {row['visited_place']} - Budget: {row['budget']} INR - Season: {row['season']}")
+        else:
+            print("\nSorry, no recommendations matched your preferences.")
+    except ValueError:
+        print("\nInvalid input. Please enter numbers where required.")
+
+# Main execution
+if __name__ == "__main__":
+    travel_recommendation()
