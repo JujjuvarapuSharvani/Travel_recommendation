@@ -1,0 +1,501 @@
+Age,Preferred Type of Place,Visited Place,Budget,Season
+46,Historical,Jaipur,25289,Winter
+38,Nature,Munnar,19907,All Seasons
+23,Adventure,Manali,36350,Summer
+33,Nature,Munnar,4371,All Seasons
+23,Adventure,Rishikesh,18482,Summer
+34,Beaches,Goa,22838,Winter
+57,Temples,Varanasi,4151,Winter
+18,Beaches,Goa,19673,Winter
+46,Beaches,Goa,9927,Winter
+37,Nature,Ooty,13385,Summer
+58,Historical,Mysore,29008,Monsoon
+33,Nature,Ooty,17691,Summer
+24,Beaches,Pondicherry,20622,All Seasons
+44,Nature,Ooty,7289,Summer
+51,Adventure,Spiti Valley,28335,All Seasons
+19,Historical,Jaipur,25611,Winter
+31,Historical,Jaipur,8503,Winter
+30,Beaches,Andaman & Nicobar Islands,11002,All Seasons
+26,Historical,Jaipur,21176,Winter
+30,Historical,Mysore,15798,Monsoon
+48,Nature,Sikkim,8461,All Seasons
+55,Historical,Delhi,16480,All Seasons
+38,Nature,Ooty,5384,Summer
+31,Temples,Varanasi,7199,Winter
+38,Temples,Rishikesh,11619,Summer
+34,Historical,Agra,18637,Winter
+43,Historical,Hampi,17392,Summer
+20,Adventure,Spiti Valley,25075,All Seasons
+23,Adventure,Leh-Ladakh,25332,All Seasons
+32,Adventure,Auli,19365,All Seasons
+31,Temples,Haridwar,12044,Winter
+52,Beaches,Andaman & Nicobar Islands,5522,All Seasons
+21,Temples,Varanasi,10437,Winter
+38,Nature,Munnar,7644,All Seasons
+40,Adventure,Auli,17515,All Seasons
+24,Temples,Madurai,14922,Summer
+51,Nature,Munnar,9386,All Seasons
+36,Beaches,Pondicherry,22631,All Seasons
+35,Adventure,Leh-Ladakh,10068,All Seasons
+60,Beaches,Goa,11256,Winter
+59,Beaches,Gokarna,24925,Winter
+20,Temples,Puri,11915,All Seasons
+21,Temples,Madurai,4850,Summer
+18,Beaches,Andaman & Nicobar Islands,16713,All Seasons
+57,Adventure,Manali,26957,Summer
+55,Historical,Agra,29134,Winter
+40,Nature,Darjeeling,5620,All Seasons
+20,Beaches,Andaman & Nicobar Islands,13409,All Seasons
+29,Nature,Darjeeling,13240,All Seasons
+31,Nature,Darjeeling,7119,All Seasons
+56,Beaches,Gokarna,19210,Winter
+26,Temples,Rishikesh,12843,Summer
+50,Historical,Mysore,16256,Monsoon
+48,Historical,Hampi,13068,Summer
+58,Temples,Puri,5709,All Seasons
+42,Nature,Darjeeling,17925,All Seasons
+51,Historical,Hampi,29327,Summer
+39,Temples,Varanasi,7534,Winter
+36,Historical,Agra,17753,Winter
+34,Nature,Nainital,8719,All Seasons
+30,Nature,Nainital,13055,All Seasons
+23,Historical,Mysore,20456,Monsoon
+50,Beaches,Goa,11843,Winter
+38,Adventure,Leh-Ladakh,34262,All Seasons
+33,Temples,Puri,14032,All Seasons
+55,Beaches,Gokarna,6103,Winter
+26,Nature,Nainital,15024,All Seasons
+53,Nature,Ooty,13679,Summer
+20,Historical,Jaipur,25107,Winter
+40,Nature,Nainital,10582,All Seasons
+60,Nature,Sikkim,10501,All Seasons
+47,Historical,Delhi,23582,All Seasons
+31,Nature,Darjeeling,11786,All Seasons
+39,Nature,Ooty,10755,Summer
+19,Adventure,Auli,10330,All Seasons
+52,Nature,Munnar,19885,All Seasons
+18,Adventure,Rishikesh,36297,Summer
+50,Adventure,Auli,25200,All Seasons
+21,Nature,Darjeeling,5912,All Seasons
+52,Beaches,Gokarna,10250,Winter
+40,Nature,Nainital,14277,All Seasons
+52,Beaches,Goa,23861,Winter
+22,Beaches,Gokarna,16850,Winter
+31,Temples,Madurai,12360,Summer
+20,Beaches,Goa,20805,Winter
+34,Nature,Nainital,15906,All Seasons
+42,Temples,Madurai,6726,Summer
+33,Historical,Jaipur,13852,Winter
+28,Adventure,Manali,12141,Summer
+37,Adventure,Manali,16217,Summer
+32,Beaches,Goa,20093,Winter
+39,Nature,Ooty,8326,Summer
+44,Nature,Sikkim,15062,All Seasons
+36,Temples,Varanasi,3842,Winter
+35,Historical,Mysore,11246,Monsoon
+18,Nature,Nainital,16838,All Seasons
+33,Temples,Madurai,9499,Summer
+41,Nature,Sikkim,15864,All Seasons
+54,Nature,Darjeeling,17634,All Seasons
+38,Nature,Munnar,15088,All Seasons
+34,Historical,Hampi,21541,Summer
+34,Temples,Madurai,14442,Summer
+52,Adventure,Auli,15871,All Seasons
+43,Temples,Puri,13793,All Seasons
+30,Temples,Haridwar,4371,Winter
+26,Historical,Mysore,14073,Monsoon
+35,Nature,Ooty,9270,Summer
+42,Adventure,Rishikesh,13706,Summer
+56,Beaches,Andaman & Nicobar Islands,20643,All Seasons
+38,Adventure,Leh-Ladakh,36695,All Seasons
+18,Nature,Darjeeling,9220,All Seasons
+18,Beaches,Goa,13471,Winter
+22,Temples,Varanasi,11206,Winter
+33,Beaches,Andaman & Nicobar Islands,24028,All Seasons
+41,Nature,Darjeeling,6354,All Seasons
+35,Nature,Darjeeling,5048,All Seasons
+39,Nature,Ooty,5110,Summer
+48,Beaches,Andaman & Nicobar Islands,13480,All Seasons
+33,Beaches,Goa,24687,Winter
+44,Nature,Nainital,5918,All Seasons
+21,Adventure,Rishikesh,36924,Summer
+60,Nature,Darjeeling,10135,All Seasons
+23,Temples,Varanasi,6110,Winter
+36,Adventure,Auli,20744,All Seasons
+26,Beaches,Pondicherry,14389,All Seasons
+33,Adventure,Manali,20621,Summer
+48,Beaches,Pondicherry,18005,All Seasons
+20,Adventure,Manali,14736,Summer
+18,Temples,Madurai,13754,Summer
+46,Adventure,Spiti Valley,16856,All Seasons
+54,Nature,Munnar,5943,All Seasons
+50,Beaches,Goa,23479,Winter
+37,Adventure,Manali,26716,Summer
+31,Beaches,Gokarna,24337,Winter
+29,Temples,Rishikesh,7591,Summer
+24,Temples,Varanasi,11763,Winter
+41,Temples,Puri,11121,All Seasons
+52,Beaches,Gokarna,7094,Winter
+57,Beaches,Andaman & Nicobar Islands,17183,All Seasons
+26,Nature,Nainital,11490,All Seasons
+52,Beaches,Pondicherry,17979,All Seasons
+60,Historical,Delhi,21518,All Seasons
+39,Temples,Rishikesh,5738,Summer
+26,Adventure,Manali,18370,Summer
+20,Historical,Mysore,16787,Monsoon
+45,Historical,Agra,14632,Winter
+41,Historical,Jaipur,23552,Winter
+35,Historical,Jaipur,22583,Winter
+60,Beaches,Gokarna,21944,Winter
+29,Adventure,Manali,14087,Summer
+48,Nature,Darjeeling,18705,All Seasons
+21,Beaches,Goa,22347,Winter
+30,Historical,Agra,22699,Winter
+19,Temples,Puri,10765,All Seasons
+58,Nature,Darjeeling,5656,All Seasons
+52,Beaches,Gokarna,21409,Winter
+51,Adventure,Leh-Ladakh,34544,All Seasons
+48,Historical,Hampi,26595,Summer
+24,Temples,Varanasi,6203,Winter
+57,Historical,Jaipur,24469,Winter
+49,Historical,Delhi,28912,All Seasons
+42,Historical,Mysore,17243,Monsoon
+30,Beaches,Gokarna,6457,Winter
+57,Nature,Sikkim,10239,All Seasons
+47,Nature,Nainital,9719,All Seasons
+54,Adventure,Manali,20927,Summer
+32,Beaches,Pondicherry,19886,All Seasons
+24,Beaches,Pondicherry,16092,All Seasons
+25,Historical,Hampi,29365,Summer
+45,Temples,Haridwar,14591,Winter
+55,Temples,Madurai,4260,Summer
+51,Beaches,Andaman & Nicobar Islands,23485,All Seasons
+52,Beaches,Pondicherry,13627,All Seasons
+46,Nature,Munnar,11070,All Seasons
+35,Adventure,Leh-Ladakh,30971,All Seasons
+46,Historical,Agra,21921,Winter
+27,Temples,Madurai,6681,Summer
+21,Nature,Nainital,4517,All Seasons
+24,Temples,Haridwar,5265,Winter
+20,Temples,Puri,6525,All Seasons
+33,Historical,Hampi,9080,Summer
+52,Adventure,Manali,10703,Summer
+41,Nature,Nainital,19693,All Seasons
+35,Nature,Darjeeling,5343,All Seasons
+38,Beaches,Andaman & Nicobar Islands,20829,All Seasons
+22,Adventure,Spiti Valley,30250,All Seasons
+21,Nature,Sikkim,5115,All Seasons
+28,Nature,Ooty,17188,Summer
+60,Historical,Agra,23955,Winter
+40,Beaches,Gokarna,15820,Winter
+41,Adventure,Leh-Ladakh,37886,All Seasons
+37,Temples,Haridwar,13305,Winter
+18,Temples,Puri,6573,All Seasons
+57,Adventure,Manali,25114,Summer
+35,Historical,Mysore,29236,Monsoon
+59,Temples,Varanasi,5588,Winter
+59,Adventure,Spiti Valley,19816,All Seasons
+33,Nature,Munnar,16788,All Seasons
+40,Historical,Delhi,29275,All Seasons
+26,Beaches,Goa,18897,Winter
+48,Temples,Rishikesh,8082,Summer
+30,Temples,Rishikesh,10068,Summer
+31,Historical,Hampi,9420,Summer
+49,Temples,Varanasi,11473,Winter
+29,Historical,Delhi,12807,All Seasons
+56,Nature,Ooty,5588,Summer
+39,Beaches,Gokarna,11372,Winter
+25,Adventure,Spiti Valley,28413,All Seasons
+58,Beaches,Gokarna,13554,Winter
+37,Temples,Rishikesh,14528,Summer
+25,Historical,Mysore,25953,Monsoon
+58,Historical,Hampi,10718,Summer
+57,Beaches,Andaman & Nicobar Islands,6611,All Seasons
+38,Historical,Agra,18407,Winter
+55,Temples,Haridwar,9519,Winter
+58,Beaches,Goa,20267,Winter
+27,Nature,Darjeeling,8629,All Seasons
+37,Historical,Agra,12165,Winter
+37,Adventure,Spiti Valley,13793,All Seasons
+42,Temples,Haridwar,9995,Winter
+55,Nature,Darjeeling,11424,All Seasons
+19,Historical,Hampi,27255,Summer
+36,Temples,Haridwar,9895,Winter
+40,Historical,Agra,27606,Winter
+60,Historical,Jaipur,19486,Winter
+50,Historical,Delhi,15105,All Seasons
+43,Adventure,Spiti Valley,34055,All Seasons
+52,Nature,Sikkim,6699,All Seasons
+46,Temples,Haridwar,6237,Winter
+44,Adventure,Auli,24050,All Seasons
+40,Temples,Rishikesh,8771,Summer
+36,Temples,Puri,5942,All Seasons
+24,Adventure,Spiti Valley,26105,All Seasons
+32,Historical,Delhi,11366,All Seasons
+54,Nature,Ooty,5519,Summer
+55,Beaches,Pondicherry,9773,All Seasons
+28,Historical,Hampi,12407,Summer
+39,Beaches,Andaman & Nicobar Islands,7069,All Seasons
+18,Nature,Munnar,17989,All Seasons
+46,Beaches,Pondicherry,21833,All Seasons
+54,Beaches,Pondicherry,23814,All Seasons
+30,Historical,Agra,16581,Winter
+58,Historical,Delhi,16046,All Seasons
+20,Adventure,Manali,22508,Summer
+20,Temples,Madurai,10370,Summer
+54,Historical,Agra,15714,Winter
+30,Nature,Sikkim,10945,All Seasons
+54,Nature,Munnar,10037,All Seasons
+38,Historical,Hampi,25116,Summer
+19,Beaches,Pondicherry,5070,All Seasons
+31,Historical,Hampi,16215,Summer
+37,Temples,Rishikesh,11591,Summer
+28,Nature,Sikkim,5079,All Seasons
+58,Beaches,Andaman & Nicobar Islands,19567,All Seasons
+34,Adventure,Leh-Ladakh,27953,All Seasons
+60,Beaches,Goa,9197,Winter
+50,Temples,Haridwar,3836,Winter
+24,Historical,Mysore,19220,Monsoon
+38,Beaches,Pondicherry,16333,All Seasons
+59,Historical,Jaipur,24183,Winter
+28,Adventure,Rishikesh,35583,Summer
+48,Temples,Puri,7164,All Seasons
+26,Historical,Jaipur,22452,Winter
+19,Historical,Jaipur,23174,Winter
+22,Adventure,Spiti Valley,30282,All Seasons
+38,Historical,Agra,21663,Winter
+18,Adventure,Rishikesh,23103,Summer
+47,Beaches,Gokarna,7249,Winter
+52,Historical,Jaipur,27059,Winter
+40,Beaches,Goa,10364,Winter
+58,Adventure,Spiti Valley,16027,All Seasons
+37,Nature,Munnar,4998,All Seasons
+39,Temples,Puri,8191,All Seasons
+49,Nature,Munnar,8526,All Seasons
+45,Historical,Hampi,16099,Summer
+35,Historical,Hampi,19239,Summer
+46,Beaches,Andaman & Nicobar Islands,16150,All Seasons
+55,Historical,Jaipur,10677,Winter
+57,Adventure,Manali,39066,Summer
+33,Adventure,Rishikesh,11876,Summer
+36,Beaches,Gokarna,17766,Winter
+60,Beaches,Gokarna,14751,Winter
+60,Historical,Agra,28419,Winter
+45,Adventure,Spiti Valley,16616,All Seasons
+19,Nature,Darjeeling,18078,All Seasons
+28,Adventure,Manali,39010,Summer
+38,Temples,Puri,10771,All Seasons
+29,Temples,Rishikesh,14869,Summer
+33,Temples,Madurai,5667,Summer
+22,Adventure,Auli,22877,All Seasons
+35,Nature,Sikkim,16825,All Seasons
+25,Beaches,Pondicherry,21242,All Seasons
+46,Temples,Haridwar,7280,Winter
+23,Adventure,Spiti Valley,25094,All Seasons
+40,Beaches,Pondicherry,16109,All Seasons
+39,Historical,Hampi,9588,Summer
+40,Historical,Hampi,18886,Summer
+49,Historical,Mysore,18977,Monsoon
+59,Adventure,Leh-Ladakh,39226,All Seasons
+35,Temples,Rishikesh,11573,Summer
+49,Nature,Ooty,7927,Summer
+40,Historical,Hampi,24680,Summer
+25,Beaches,Pondicherry,15961,All Seasons
+33,Beaches,Pondicherry,24680,All Seasons
+60,Temples,Madurai,7361,Summer
+28,Historical,Mysore,25066,Monsoon
+31,Adventure,Leh-Ladakh,38771,All Seasons
+26,Temples,Rishikesh,10346,Summer
+35,Beaches,Andaman & Nicobar Islands,8994,All Seasons
+54,Nature,Darjeeling,18019,All Seasons
+44,Historical,Agra,18966,Winter
+29,Historical,Mysore,17182,Monsoon
+24,Nature,Nainital,16458,All Seasons
+24,Adventure,Manali,30517,Summer
+39,Beaches,Gokarna,22678,Winter
+50,Adventure,Rishikesh,10108,Summer
+36,Adventure,Leh-Ladakh,21804,All Seasons
+44,Nature,Ooty,15004,Summer
+35,Beaches,Gokarna,8399,Winter
+27,Nature,Sikkim,16291,All Seasons
+23,Adventure,Spiti Valley,16350,All Seasons
+54,Adventure,Spiti Valley,32214,All Seasons
+49,Nature,Darjeeling,13953,All Seasons
+19,Adventure,Spiti Valley,28944,All Seasons
+41,Adventure,Leh-Ladakh,35487,All Seasons
+25,Nature,Ooty,11896,Summer
+60,Adventure,Leh-Ladakh,34606,All Seasons
+23,Temples,Varanasi,7224,Winter
+60,Temples,Madurai,3074,Summer
+44,Historical,Agra,13924,Winter
+36,Nature,Nainital,13602,All Seasons
+27,Historical,Jaipur,17164,Winter
+50,Nature,Sikkim,17001,All Seasons
+20,Historical,Agra,10019,Winter
+22,Temples,Madurai,14720,Summer
+19,Historical,Jaipur,11424,Winter
+51,Temples,Puri,10385,All Seasons
+33,Temples,Haridwar,12575,Winter
+49,Historical,Mysore,17331,Monsoon
+35,Historical,Mysore,26916,Monsoon
+35,Temples,Rishikesh,5324,Summer
+60,Nature,Darjeeling,11917,All Seasons
+27,Temples,Madurai,10293,Summer
+60,Temples,Rishikesh,13090,Summer
+46,Nature,Nainital,10935,All Seasons
+22,Historical,Jaipur,29407,Winter
+30,Beaches,Andaman & Nicobar Islands,20233,All Seasons
+57,Temples,Rishikesh,11580,Summer
+44,Beaches,Gokarna,22676,Winter
+57,Historical,Hampi,16672,Summer
+45,Nature,Sikkim,7887,All Seasons
+41,Historical,Hampi,13502,Summer
+37,Adventure,Manali,10044,Summer
+19,Beaches,Gokarna,22593,Winter
+27,Historical,Agra,28363,Winter
+24,Historical,Jaipur,9293,Winter
+37,Nature,Sikkim,11720,All Seasons
+35,Nature,Munnar,14121,All Seasons
+56,Beaches,Gokarna,12072,Winter
+32,Nature,Sikkim,12549,All Seasons
+18,Temples,Madurai,4277,Summer
+28,Beaches,Pondicherry,24476,All Seasons
+25,Beaches,Goa,19767,Winter
+41,Historical,Mysore,11799,Monsoon
+37,Adventure,Manali,21024,Summer
+21,Historical,Agra,25152,Winter
+40,Historical,Delhi,12693,All Seasons
+32,Beaches,Goa,17407,Winter
+59,Historical,Hampi,14400,Summer
+53,Historical,Jaipur,24397,Winter
+29,Beaches,Pondicherry,9445,All Seasons
+41,Beaches,Goa,5862,Winter
+44,Beaches,Goa,23928,Winter
+24,Nature,Munnar,16603,All Seasons
+30,Temples,Puri,9507,All Seasons
+36,Beaches,Pondicherry,24050,All Seasons
+41,Beaches,Goa,13953,Winter
+59,Temples,Madurai,7599,Summer
+52,Beaches,Goa,15926,Winter
+42,Temples,Haridwar,5071,Winter
+39,Adventure,Rishikesh,25722,Summer
+26,Nature,Munnar,7416,All Seasons
+27,Nature,Nainital,14463,All Seasons
+40,Beaches,Pondicherry,19400,All Seasons
+41,Temples,Varanasi,13289,Winter
+47,Historical,Agra,27276,Winter
+59,Nature,Munnar,6429,All Seasons
+44,Temples,Madurai,12215,Summer
+24,Beaches,Andaman & Nicobar Islands,10721,All Seasons
+53,Beaches,Gokarna,10464,Winter
+58,Beaches,Andaman & Nicobar Islands,5681,All Seasons
+23,Beaches,Pondicherry,22365,All Seasons
+49,Historical,Delhi,19213,All Seasons
+47,Historical,Mysore,10696,Monsoon
+19,Nature,Ooty,14777,Summer
+30,Beaches,Gokarna,18046,Winter
+50,Temples,Rishikesh,6156,Summer
+49,Adventure,Spiti Valley,16317,All Seasons
+48,Temples,Madurai,9398,Summer
+59,Historical,Jaipur,26391,Winter
+49,Historical,Hampi,29651,Summer
+44,Beaches,Pondicherry,7463,All Seasons
+19,Adventure,Leh-Ladakh,28725,All Seasons
+31,Beaches,Gokarna,5125,Winter
+41,Temples,Puri,4030,All Seasons
+40,Nature,Ooty,18739,Summer
+18,Nature,Munnar,8113,All Seasons
+56,Nature,Ooty,16791,Summer
+48,Nature,Ooty,10089,Summer
+54,Adventure,Manali,29697,Summer
+31,Temples,Puri,12608,All Seasons
+19,Beaches,Pondicherry,5317,All Seasons
+58,Beaches,Gokarna,9107,Winter
+60,Nature,Ooty,16056,Summer
+19,Beaches,Gokarna,12258,Winter
+31,Adventure,Rishikesh,37163,Summer
+48,Beaches,Pondicherry,13282,All Seasons
+37,Beaches,Pondicherry,17061,All Seasons
+36,Historical,Hampi,24183,Summer
+26,Beaches,Goa,20340,Winter
+18,Adventure,Spiti Valley,34242,All Seasons
+50,Adventure,Auli,33340,All Seasons
+32,Adventure,Rishikesh,15439,Summer
+23,Beaches,Goa,22553,Winter
+21,Temples,Varanasi,14187,Winter
+45,Adventure,Manali,19800,Summer
+30,Temples,Varanasi,10362,Winter
+22,Temples,Puri,13310,All Seasons
+27,Historical,Hampi,10519,Summer
+43,Adventure,Auli,35909,All Seasons
+47,Beaches,Pondicherry,19612,All Seasons
+32,Nature,Munnar,4132,All Seasons
+30,Historical,Hampi,15463,Summer
+26,Temples,Puri,6769,All Seasons
+46,Temples,Varanasi,10087,Winter
+54,Historical,Hampi,14075,Summer
+51,Historical,Hampi,25146,Summer
+36,Adventure,Manali,19736,Summer
+52,Historical,Jaipur,12938,Winter
+56,Adventure,Rishikesh,20565,Summer
+20,Beaches,Andaman & Nicobar Islands,22736,All Seasons
+43,Nature,Darjeeling,9825,All Seasons
+32,Temples,Varanasi,7429,Winter
+51,Adventure,Rishikesh,27667,Summer
+23,Historical,Delhi,10866,All Seasons
+33,Historical,Agra,23062,Winter
+26,Nature,Darjeeling,10779,All Seasons
+26,Temples,Rishikesh,12754,Summer
+36,Beaches,Andaman & Nicobar Islands,5389,All Seasons
+49,Nature,Ooty,14544,Summer
+35,Nature,Nainital,17654,All Seasons
+39,Historical,Mysore,11475,Monsoon
+38,Beaches,Goa,22716,Winter
+27,Nature,Munnar,8255,All Seasons
+34,Temples,Puri,9749,All Seasons
+57,Adventure,Auli,18901,All Seasons
+29,Adventure,Spiti Valley,17907,All Seasons
+39,Adventure,Rishikesh,35628,Summer
+38,Temples,Varanasi,13485,Winter
+52,Beaches,Andaman & Nicobar Islands,9809,All Seasons
+28,Temples,Madurai,9439,Summer
+39,Historical,Mysore,8498,Monsoon
+30,Historical,Mysore,14967,Monsoon
+34,Historical,Jaipur,10904,Winter
+56,Temples,Madurai,5092,Summer
+44,Nature,Ooty,14669,Summer
+38,Temples,Haridwar,4934,Winter
+18,Nature,Nainital,12333,All Seasons
+38,Adventure,Spiti Valley,18453,All Seasons
+34,Beaches,Gokarna,10458,Winter
+49,Beaches,Goa,11512,Winter
+58,Adventure,Leh-Ladakh,25284,All Seasons
+25,Beaches,Gokarna,17073,Winter
+56,Nature,Munnar,18442,All Seasons
+50,Beaches,Goa,16832,Winter
+32,Adventure,Auli,10934,All Seasons
+50,Nature,Darjeeling,16728,All Seasons
+58,Nature,Ooty,4164,Summer
+25,Nature,Munnar,17730,All Seasons
+57,Adventure,Spiti Valley,14005,All Seasons
+30,Historical,Delhi,12115,All Seasons
+22,Beaches,Pondicherry,21151,All Seasons
+33,Nature,Munnar,19229,All Seasons
+30,Historical,Mysore,24431,Monsoon
+27,Temples,Madurai,7108,Summer
+49,Historical,Hampi,23667,Summer
+31,Beaches,Pondicherry,7578,All Seasons
+40,Historical,Hampi,19426,Summer
+23,Temples,Haridwar,11341,Winter
+33,Historical,Hampi,14683,Summer
+25,Nature,Ooty,12343,Summer
+47,Beaches,Goa,23613,Winter
+57,Beaches,Andaman & Nicobar Islands,19344,All Seasons
+42,Temples,Haridwar,3884,Winter
+35,Beaches,Gokarna,17491,Winter
+30,Historical,Agra,9837,Winter
+24,Beaches,Pondicherry,15216,All Seasons
+58,Temples,Madurai,12469,Summer
+54,Nature,Munnar,12317,All Seasons
+25,Temples,Varanasi,12120,Winter
